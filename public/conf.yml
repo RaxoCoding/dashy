@@ -21,7 +21,7 @@ sections:
       rows: 2
       sortBy: default
       cols: 1
-      collapsed: true
+      collapsed: false
       hideForGuests: false
     items:
       - title: BurpSuite
@@ -86,7 +86,7 @@ sections:
       sortBy: default
       rows: 1
       cols: 1
-      collapsed: true
+      collapsed: false
       hideForGuests: false
   - name: Forensics
     icon: far fa-microscope
@@ -108,7 +108,7 @@ sections:
       sortBy: default
       rows: 1
       cols: 1
-      collapsed: true
+      collapsed: false
       hideForGuests: false
   - name: Attack Frameworks
     icon: far fa-axe-battle
@@ -125,7 +125,7 @@ sections:
       sortBy: default
       rows: 1
       cols: 1
-      collapsed: true
+      collapsed: false
       hideForGuests: false
   - name: Crypto Tools
     icon: far fa-brackets-curly
@@ -133,7 +133,7 @@ sections:
       rows: 2
       sortBy: default
       cols: 1
-      collapsed: true
+      collapsed: false
       hideForGuests: false
     items:
       - title: CyberChef
@@ -195,7 +195,7 @@ sections:
       sortBy: default
       rows: 1
       cols: 1
-      collapsed: true
+      collapsed: false
       hideForGuests: false
   - name: Steganography
     icon: far fa-file-image
@@ -228,7 +228,7 @@ sections:
       sortBy: default
       rows: 1
       cols: 1
-      collapsed: true
+      collapsed: false
       hideForGuests: false
   - name: Misc
     icon: far fa-icons-alt
@@ -245,5 +245,5 @@ sections:
       sortBy: default
       rows: 1
       cols: 1
-      collapsed: true
+      collapsed: false
       hideForGuests: false
