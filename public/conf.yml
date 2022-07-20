@@ -164,6 +164,11 @@ sections:
         description: A tool for recovering RSA private key with various attack
         icon: null
         url: https://github.com/Ganapati/RsaCtfTool
+      - title: dCode
+        description: many cryptographic tools & identifiers
+        url: https://www.dcode.fr/en
+        target: newtab
+        id: 7_1202_dcode
   - name: Networking
     icon: far fa-network-wired
     items:
