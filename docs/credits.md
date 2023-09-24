@@ -68,8 +68,8 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Gomez0015">
-            <img src="https://avatars.githubusercontent.com/u/56361339?v=4" width="80;" alt="Gomez0015"/>
+        <a href="https://github.com/RaxoCoding">
+            <img src="https://avatars.githubusercontent.com/u/56361339?v=4" width="80;" alt="RaxoCoding"/>
             <br />
             <sub><b>Oscar Gomez</b></sub>
         </a>
